@@ -13,30 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
       "cityName": "Gurrea de Gallego",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -71,42 +47,6 @@
         "lng": "1.2689208984375002"
       },
       "id": 98443200
-    },
-    {
-      "cityName": "Montagnol",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-10-29T22:36:22.735Z",
-      "notes": "dasdasdasdas",
-      "position": {
-        "lat": "43.848059017048186",
-        "lng": "3.043212890625"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Salles-Curan",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-10-29T22:36:32.739Z",
-      "notes": "sadasdas",
-      "position": {
-        "lat": "44.118905482519814",
-        "lng": "2.84820556640625"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Bertholene",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-10-29T22:36:40.634Z",
-      "notes": "dasdasdas",
-      "position": {
-        "lat": "44.41787037469014",
-        "lng": "2.7795410156250004"
-      },
-      "id": 98443203
     }
   ]
 }
