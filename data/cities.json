@@ -35,6 +35,78 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Gurrea de Gallego",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-29T22:35:18.218Z",
+      "notes": "dasdas",
+      "position": {
+        "lat": "42.00773694112395",
+        "lng": "-0.7965087890625001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Sudanell",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-29T22:36:14.932Z",
+      "notes": "dasdasdsa",
+      "position": {
+        "lat": "41.56094655390086",
+        "lng": "0.5822753906250001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Balearic Sea",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-29T22:36:18.499Z",
+      "notes": "dasdasdas",
+      "position": {
+        "lat": "40.96627540862937",
+        "lng": "1.2689208984375002"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Montagnol",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-29T22:36:22.735Z",
+      "notes": "dasdasdasdas",
+      "position": {
+        "lat": "43.848059017048186",
+        "lng": "3.043212890625"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Salles-Curan",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-29T22:36:32.739Z",
+      "notes": "sadasdas",
+      "position": {
+        "lat": "44.118905482519814",
+        "lng": "2.84820556640625"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Bertholene",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-29T22:36:40.634Z",
+      "notes": "dasdasdas",
+      "position": {
+        "lat": "44.41787037469014",
+        "lng": "2.7795410156250004"
+      },
+      "id": 98443203
     }
   ]
 }
